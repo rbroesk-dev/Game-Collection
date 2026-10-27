@@ -13,16 +13,18 @@ function GameCard(props) {
                 />
             )}
             <h2>{props.title}</h2>
-            <p>Platform: {props.platform}</p>
-            <p>Genre: {props.genre}</p>
-            <p>Rating: ⭐ {props.rating}</p>
-            <p>Jaar: {props.year}</p>
+            <p><strong>Platform:</strong> {props.platform}</p>
+            <p><strong>Genre:</strong> {props.genre}</p>
+            <p><strong>Developer:</strong> {props.developer}</p>
+            <p><strong>Multiplayer:</strong> {props.multiplayer}</p>
+            <p><strong>Rating:</strong> ⭐ {props.rating}</p>
+            <p><strong>Jaar:</strong> {props.year}</p>
 
             <button
-                className="favorite-button"
+                className={`favorite-button ${favorite ? "is-favorite" : ""}`}
                 onClick={() => setFavorite(!favorite)}
             >
-                {favorite ? "❤️ Favoriet" : "🤍 Favoriet"}
+                {favorite ? "❤️ In Favorieten" : "🤍 Toevoegen aan favorieten"}
             </button>
         </div>
     );

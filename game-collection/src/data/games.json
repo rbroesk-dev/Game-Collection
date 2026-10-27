@@ -6,7 +6,9 @@
     "genre": "Sandbox",
     "rating": 9.5,
     "year": 2011,
-    "image": "minecraft.jpg"
+    "image": "minecraft.jpg",
+    "developer": "Mojang Studios",
+    "multiplayer": "Ja"
   },
   {
     "id": 2,
@@ -15,7 +17,9 @@
     "genre": "Race",
     "rating": 9.3,
     "year": 2025,
-    "image": ""
+    "image": "",
+    "developer": "Nintendo",
+    "multiplayer": "Ja"
   },
   {
     "id": 3,
@@ -24,7 +28,9 @@
     "genre": "Sport",
     "rating": 8.9,
     "year": 2015,
-    "image": ""
+    "image": "",
+    "developer": "Psyonix",
+    "multiplayer": "Ja"
   },
   {
     "id": 4,
@@ -33,7 +39,9 @@
     "genre": "Sport",
     "rating": 8.6,
     "year": 2025,
-    "image": ""
+    "image": "",
+    "developer": "EA Sports",
+    "multiplayer": "Ja"
   },
   {
     "id": 5,
@@ -42,7 +50,9 @@
     "genre": "Adventure",
     "rating": 9.8,
     "year": 2023,
-    "image": ""
+    "image": "",
+    "developer": "Nintendo",
+    "multiplayer": "Nee"
   },
   {
     "id": 6,
@@ -51,7 +61,9 @@
     "genre": "Battle Royale",
     "rating": 8.7,
     "year": 2017,
-    "image": ""
+    "image": "",
+    "developer": "Epic Games",
+    "multiplayer": "Ja"
   },
   {
     "id": 7,
@@ -60,7 +72,9 @@
     "genre": "RPG",
     "rating": 8.8,
     "year": 2020,
-    "image": ""
+    "image": "",
+    "developer": "CD Projekt Red",
+    "multiplayer": "Nee"
   },
   {
     "id": 8,
@@ -69,7 +83,9 @@
     "genre": "Adventure",
     "rating": 9.9,
     "year": 2018,
-    "image": ""
+    "image": "",
+    "developer": "Rockstar Games",
+    "multiplayer": "Ja"
   },
   {
     "id": 9,
@@ -78,7 +94,9 @@
     "genre": "Action",
     "rating": 9.8,
     "year": 2013,
-    "image": ""
+    "image": "",
+    "developer": "Rockstar Games",
+    "multiplayer": "Ja"
   },
   {
     "id": 10,
@@ -87,7 +105,9 @@
     "genre": "RPG",
     "rating": 9.7,
     "year": 2022,
-    "image": ""
+    "image": "",
+    "developer": "FromSoftware",
+    "multiplayer": "Ja"
   },
   {
     "id": 11,
@@ -96,7 +116,9 @@
     "genre": "Developer Event",
     "rating": 10.0,
     "year": 2027,
-    "image": ""
+    "image": "",
+    "developer": "Software Dev Team",
+    "multiplayer": "Ja"
   },
   {
     "id": 12,
@@ -105,7 +127,9 @@
     "genre": "Sandbox",
     "rating": 9.2,
     "year": 2011,
-    "image": ""
+    "image": "",
+    "developer": "Re-Logic",
+    "multiplayer": "Ja"
   },
   {
     "id": 13,
@@ -114,7 +138,9 @@
     "genre": "FPS",
     "rating": 8.5,
     "year": 2020,
-    "image": ""
+    "image": "",
+    "developer": "Riot Games",
+    "multiplayer": "Ja"
   },
   {
     "id": 14,
@@ -123,7 +149,9 @@
     "genre": "MOBA",
     "rating": 8.4,
     "year": 2009,
-    "image": ""
+    "image": "",
+    "developer": "Riot Games",
+    "multiplayer": "Ja"
   },
   {
     "id": 15,
@@ -132,7 +160,9 @@
     "genre": "Sandbox",
     "rating": 8.2,
     "year": 2006,
-    "image": ""
+    "image": "",
+    "developer": "Roblox Corporation",
+    "multiplayer": "Ja"
   },
   {
     "id": 16,
@@ -141,7 +171,9 @@
     "genre": "Simulation",
     "rating": 9.0,
     "year": 2020,
-    "image": ""
+    "image": "",
+    "developer": "Nintendo",
+    "multiplayer": "Ja"
   },
   {
     "id": 17,
@@ -150,7 +182,9 @@
     "genre": "RPG",
     "rating": 9.8,
     "year": 2015,
-    "image": ""
+    "image": "",
+    "developer": "CD Projekt Red",
+    "multiplayer": "Nee"
   },
   {
     "id": 18,
@@ -159,7 +193,9 @@
     "genre": "RPG",
     "rating": 8.8,
     "year": 2023,
-    "image": ""
+    "image": "",
+    "developer": "Avalanche Software",
+    "multiplayer": "Nee"
   },
   {
     "id": 19,
@@ -168,7 +204,9 @@
     "genre": "Action",
     "rating": 8.5,
     "year": 2025,
-    "image": ""
+    "image": "",
+    "developer": "Ubisoft",
+    "multiplayer": "Nee"
   },
   {
     "id": 20,
@@ -177,7 +215,9 @@
     "genre": "FPS",
     "rating": 8.7,
     "year": 2025,
-    "image": ""
+    "image": "",
+    "developer": "Treyarch / Raven",
+    "multiplayer": "Ja"
   },
   {
     "id": 21,
@@ -186,6 +226,8 @@
     "genre": "Race",
     "rating": 9.1,
     "year": 2021,
-    "image": ""
+    "image": "",
+    "developer": "Playground Games",
+    "multiplayer": "Ja"
   }
 ]
